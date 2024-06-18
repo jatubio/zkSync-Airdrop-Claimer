@@ -19,14 +19,9 @@ Gas price & gas limit configuration:
 
 ## Installation
 
-```
-Install python 3.10+
-
-Install requirements by command:
-pip install -r requirements.txt
-
-Put your private keys on private_keys.txt
-
-Launch by command:
-python claim.py
-```
+- Install python 3.10+
+- Install requirements by command:
+`pip install -r requirements.txt`
+- Put your private keys on private_keys.txt
+- Launch by command:
+`python claim.py`
